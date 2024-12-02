@@ -12,7 +12,7 @@ body{
     background: url('images/background.png');
     background-size: cover;
     background-position: center;
-    margin-top: 250px;
+    height: 100vh;
 }
 .container{
 
@@ -158,7 +158,7 @@ body{
     min-height: auto;
 }
 .container{
-    margin-top: -200px;
+    margin-top: -50px;
     margin-bottom: 0;
 }
 
